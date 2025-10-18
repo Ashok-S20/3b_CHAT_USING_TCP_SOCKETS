@@ -1,6 +1,6 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
-## NAME : HIRUTHIK SUDHAKAR
-## REGISTER NUMBER : 212223240054
+## NAME : ASHOK S
+## REGISTER NUMBER : 212224040031
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
@@ -34,7 +34,7 @@ while True:
             c.send(msg.encode())
 ~~~
 ## OUPUT
-![alt text](image.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6ef4e0ff-e773-42db-af02-2c2beeedec99" />
 
 ## RESULT
 Thus, the python program for creating Chat using TCP Sockets Links was successfully 
